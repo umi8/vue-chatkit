@@ -39,3 +39,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## References
+
+[https://www.sitepoint.com/pusher-vue-real-time-chat-app/](https://www.sitepoint.com/pusher-vue-real-time-chat-app/)
